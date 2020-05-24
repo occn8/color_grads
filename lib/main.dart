@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'colors/lightblue_grads.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -24,13 +24,25 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Center(),
+      body: ListView.builder(
+        itemCount: 1,
+        itemBuilder: (BuildContext context, int index) {
+          Grads grads = grad[index];
+        return Container(
+          height: 50,
+          decoration: BoxDecoration(
+            gradient: grads.color
+          ),
+        );
+       },
+      ),
     );
   }
 }

@@ -1,9 +1,23 @@
 import 'package:flutter/material.dart';
 
-const List<Color> cool_blues = [
-  Color(0xff2193b0),
-  Color(0xff6dd5ed),
+class Grads {
+final LinearGradient color;
+   Grads({this.color});
+
+}
+List<Grads> grad=[
+Grads(color:  LinearGradient(
+    begin: Alignment.centerLeft,
+    end: Alignment.centerRight,
+    colors: [Color(0xff2193b0), Color(0xff6dd5ed)],
+  ))
 ];
+
+ const cool_blues = LinearGradient(
+    begin: Alignment.centerLeft,
+    end: Alignment.centerRight,
+    colors: [Color(0xff2193b0), Color(0xff6dd5ed)],
+  );
 
 const List<Color> moonlit_Astroid = [
   Color(0xff0f2027),
@@ -1092,7 +1106,7 @@ const List<Color> purple_love = [
   Color(0xffcc2b5e),
   Color(0xff753a88),
 ];
-//star 
+//star
 const List<Color> dimigo = [
   Color(0xffec008c),
   Color(0xfffc6767),
@@ -1244,197 +1258,269 @@ const List<Color> ver = [
   Color(0xff799f0c),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> shifty = [
+  Color(0xff636363),
+  Color(0xffa2ab58),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> easymed = [
+  Color(0xffdce35b),
+  Color(0xff45b649),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> snapchat = [
+  Color(0xfffffc00),
+  Color(0xffffffff),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> lush = [
+  Color(0xff56ab2f),
+  Color(0xffa8e063),
+];
+//star
+const List<Color> alihossein = [
+  Color(0xfff7ff00),
+  Color(0xffdb36a4),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> sage_persuasion = [
+  Color(0xffccccb2),
+  Color(0xff757519),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> green_to_dark = [
+  Color(0xff6a9113),
+  Color(0xff141517),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> martini = [
+  Color(0xfffdfc47),
+  Color(0xff24fe41),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> parklife = [
+  Color(0xffadd100),
+  Color(0xff7b920a),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> sirius_tamed = [
+  Color(0xffefefbb),
+  Color(0xffd4d3dd),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> jonquil = [
+  Color(0xffffeeee),
+  Color(0xffddefbb),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> petrichor = [
+  Color(0xff666600),
+  Color(0xff999966),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> army = [
+  Color(0xff414d0b),
+  Color(0xff727a17),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> frozen = [
+  Color(0xff403b4a),
+  Color(0xffe7e9bb),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> horizon = [
+  Color(0xff003973),
+  Color(0xffe5e5be),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> reaqua = [
+  Color(0xff799f0c),
+  Color(0xffacbb78),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> ver_black = [
+  Color(0xfff7f8f8),
+  Color(0xffacbb78),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> magic = [
+  Color(0xff59c173),
+  Color(0xffa17fe0),
+  Color(0xff5d26c1),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> quepal = [
+  Color(0xff11998e),
+  Color(0xff38ef7d),
+];
+//star
+const List<Color> rainbow_blue = [
+  Color(0xff00f260),
+  Color(0xff0575e6),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> terminal = [
+  Color(0xff000000),
+  Color(0xff0f9b0f),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> meridian = [
+  Color(0xff283c86),
+  Color(0xff45a247),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> limeade = [
+  Color(0xffa1ffce),
+  Color(0xfffaffd1),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> shahabi = [
+  Color(0xffa80077),
+  Color(0xff66ff00),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> little_leaf = [
+  Color(0xff76b852),
+  Color(0xff8dc26f),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> behongo = [
+  Color(0xff52c234),
+  Color(0xff061700),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> moss = [
+  Color(0xff134e5e),
+  Color(0xff71b280),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> petrol = [
+  Color(0xffbbd2c5),
+  Color(0xff536976),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> royal_blue_plus_petrol = [
+  Color(0xffbbd2c5),
+  Color(0xff536976),
+  Color(0xff292e49),
+];
+// star
+const List<Color> witching_hour = [
+  Color(0xffc31432),
+  Color(0xff240b36),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> lawrencium = [
+  Color(0xff0f0c29),
+  Color(0xff302b63),
+  Color(0xff24243e),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> argon = [
+  Color(0xff03001e),
+  Color(0xff7303c0),
+  Color(0xffec38bc),
+  Color(0xfffdeff9),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> purplepine = [
+  Color(0xff20002c),
+  Color(0xffcbb4d4),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> what_lies_beyond = [
+  Color(0xfff0f2f0),
+  Color(0xff000c40),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> eighties_purple = [
+  Color(0xff41295a),
+  Color(0xff2f0743),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> royal = [
+  Color(0xff141e30),
+  Color(0xff243b55),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> deep_space = [
+  Color(0xff000000),
+  Color(0xff434343),
+];
+//star
+const List<Color> flickr = [
+  Color(0xffff0084),
+  Color(0xff33001b),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> twitch = [
+  Color(0xff6441a5),
+  Color(0xff2a0845),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> talking_to_mice_elf = [
+  Color(0xff948e99),
+  Color(0xff2e1437),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> hersheys = [
+  Color(0xff1e130c),
+  Color(0xff9a8478),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> misty_meadow = [
+  Color(0xff215f00),
+  Color(0xffe4e4d9),
 ];
 
-const List<Color> blu = [
-  Color(0xff),
-  Color(0xff),
+const List<Color> pinot_noir = [
+  Color(0xff4b6cb7),
+  Color(0xff182848),
+];
+
+const List<Color> midnight_city = [
+  Color(0xff232526),
+  Color(0xff414345),
+];
+
+const List<Color> steel_gray = [
+  Color(0xff1f1c2c),
+  Color(0xff928dab),
+];
+
+const List<Color> grade_grey = [
+  Color(0xffbdc3c7),
+  Color(0xff2c3e50),
+];
+
+const List<Color> dark_ocean = [
+  Color(0xff373b44),
+  Color(0xff4286f4),
+];
+
+const List<Color> yoda = [
+  Color(0xffff0099),
+  Color(0xff493240),
+];
+
+const List<Color> zinc = [
+  Color(0xffada996),
+  Color(0xfff2f2f2),
+  Color(0xffdbdbdb),
+  Color(0xffeaeaea),
+];
+
+const List<Color> fifty_shades_of_grey = [
+  Color(0xffbdc3c7),
+  Color(0xff2c3e50),
+];
+
+const List<Color> curiosity_blue = [
+  Color(0xff525252),
+  Color(0xff3d72b4),
+];
+
+const List<Color> portrait = [
+  Color(0xff8e9eab),
+  Color(0xffeef2f3),
 ];
