@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'colors/lightblue_grads.dart';
+import 'colors/grads.dart';
 
 void main() => runApp(MyApp());
 
@@ -40,7 +40,10 @@ class _MyHomePageState extends State<MyHomePage> {
             height: 100,
             padding: new EdgeInsets.all(5),
             margin: new EdgeInsets.all(5),
-            decoration: BoxDecoration(gradient: grads.color),
+            decoration: BoxDecoration(
+              gradient: grads.color,
+              borderRadius: BorderRadius.circular(10),
+            ),
             child: Text('${grads.name}'),
           );
         },

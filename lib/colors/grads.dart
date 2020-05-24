@@ -1277,11 +1277,1149 @@ List<Grads> grad = [
     ),
   ),
   Grads(
-    name: 'eds_sunset_gradient',
+    name: 'ed\'s_sunset_gradient',
     color: LinearGradient(
       begin: Alignment.centerLeft,
       end: Alignment.centerRight,
       colors: [Color(0xffff7e5f), Color(0xfffeb47b)],
+    ),
+  ),
+  Grads(
+    name: 'nepal',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffde6161), Color(0xff2657eb)],
+    ),
+  ),
+  Grads(
+    name: 'love_couple',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff3a6186), Color(0xff89253e)],
+    ),
+  ),
+  Grads(
+    name: 'blood_red',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff85032), Color(0xffe73827)],
+    ),
+  ),
+  Grads(
+    name: 'firewatch',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffcb2d3e), Color(0xffef473a)],
+    ),
+  ),
+  Grads(
+    name: 'minimal_red',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff00000), Color(0xffdc281e)],
+    ),
+  ),
+  Grads(
+    name: 'dusk',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff2c3e50), Color(0xfffd746c)],
+    ),
+  ),
+  Grads(
+    name: 'grapefruit_sunset',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe96443), Color(0xff904e95)],
+    ),
+  ),
+  Grads(
+    name: 'sweet_morning',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff5f6d), Color(0xffffc371)],
+    ),
+  ),
+  Grads(
+    name: 'sylvia',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff4b1f), Color(0xffff9068)],
+    ),
+  ),
+  Grads(
+    name: 'tranquil',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffeecda3), Color(0xffef629f)],
+    ),
+  ),
+  Grads(
+    name: 'purple_white',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffba5370), Color(0xfff4e2d8)],
+    ),
+  ),
+  Grads(
+    name: 'forest',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff5a3f37), Color(0xff2c7744)],
+    ),
+  ),
+  Grads(
+    name: 'christmas',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff2f7336), Color(0xffaa3a38)],
+    ),
+  ),
+  Grads(
+    name: 'haikus',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfffd746c), Color(0xffff9068)],
+    ),
+  ),
+  Grads(
+    name: 'blush',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffb24592), Color(0xfff15f79)],
+    ),
+  ),
+  Grads(
+    name: 'back_to_the_future',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffc02425), Color(0xfff0cb35)],
+    ),
+  ),
+  Grads(
+    name: 'poncho',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff403a3e), Color(0xffbe5869)],
+    ),
+  ),
+  Grads(
+    name: 'netflix',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff8e0e00), Color(0xff1f1c18)],
+    ),
+  ),
+  Grads(
+    name: 'master_card',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff46b45), Color(0xffeea849)],
+    ),
+  ),
+  Grads(
+    name: 'passion',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe53935), Color(0xffe35d5b)],
+    ),
+  ),
+  Grads(
+    name: 'piglet',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffee9ca7), Color(0xffffdde1)],
+    ),
+  ),
+  Grads(
+    name: 'virgin_america',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff7b4397), Color(0xffdc2430)],
+    ),
+  ),
+  Grads(
+    name: 'instagram',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff833ab4), Color(0xfffd1d1d), Color(0xfffcb045)],
+    ),
+  ),
+  Grads(
+    name: 'predawn',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffa17f), Color(0xff00223e)],
+    ),
+  ),
+  Grads(
+    name: 'soundcloud',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfffe8c00), Color(0xfff83600)],
+    ),
+  ),
+  Grads(
+    name: 'chear_up_emo_kid',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff556270), Color(0xffff6b6b)],
+    ),
+  ),
+  Grads(
+    name: 'man_of_steel',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff780206), Color(0xff061161)],
+    ),
+  ),
+  Grads(
+    name: 'red_mist',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff000000), Color(0xffe74c3c)],
+    ),
+  ),
+  Grads(
+    name: 'dance_to_forget',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff4e50), Color(0xfff9d423)],
+    ),
+  ),
+  Grads(
+    name: 'virgin',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffc9ffbf), Color(0xffffafbd)],
+    ),
+  ),
+  Grads(
+    name: 'the_strain',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff870000), Color(0xff190a05)],
+    ),
+  ),
+  Grads(
+    name: 'candy',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffd3959b), Color(0xffbfe6ba)],
+    ),
+  ),
+  Grads(
+    name: 'nelson',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff2709c), Color(0xffff9472)],
+    ),
+  ),
+  Grads(
+    name: 'almost',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffddd6f3), Color(0xfffaaca8)],
+    ),
+  ),
+  Grads(
+    name: 'kyoto',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffc21500), Color(0xffffc500)],
+    ),
+  ),
+  Grads(
+    name: 'a_lost_memory',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffde6262), Color(0xffffb88c)],
+    ),
+  ),
+  Grads(
+    name: 'blurry_beach',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffd53369), Color(0xffcbad6d)],
+    ),
+  ),
+  Grads(
+    name: 'namn',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffa73737), Color(0xff7a2828)],
+    ),
+  ),
+  Grads(
+    name: 'day_tripper',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff857a6), Color(0xffff5858)],
+    ),
+  ),
+  Grads(
+    name: 'shrimpy',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe43a15), Color(0xffe65245)],
+    ),
+  ),
+  Grads(
+    name: 'influenza',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffc04848), Color(0xff480048)],
+    ),
+  ),
+  Grads(
+    name: 'bourbon',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffec6f66), Color(0xfff3a183)],
+    ),
+  ),
+  Grads(
+    name: 'moonrise',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffdae2f8), Color(0xffd6a4a4)],
+    ),
+  ),
+  Grads(
+    name: 'peach',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffed4264), Color(0xffffedbc)],
+    ),
+  ),
+  Grads(
+    name: 'dracula',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffdc2424), Color(0xff4a569d)],
+    ),
+  ),
+  Grads(
+    name: 'cherry',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffeb3349), Color(0xfff45c43)],
+    ),
+  ),
+  Grads(
+    name: 'pinky',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffdd5e89), Color(0xfff7bb97)],
+    ),
+  ),
+  Grads(
+    name: 'sunrise',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff512f), Color(0xfff09819)],
+    ),
+  ),
+  Grads(
+    name: 'bloody_mary',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff512f), Color(0xffdd2476)],
+    ),
+  ),
+  Grads(
+    name: 'playing_with_reds',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffd31027), Color(0xffea384d)],
+    ),
+  ),
+  Grads(
+    name: 'cool_brown',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff603813), Color(0xffb29f94)],
+    ),
+  ),
+  Grads(
+    name: 'youtube',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe52d27), Color(0xffb31217)],
+    ),
+  ),
+  Grads(
+    name: 'noon_to_dusk',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff6e7f), Color(0xffbfe9ff)],
+    ),
+  ),
+  Grads(
+    name: 'blooker20',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe65c00), Color(0xfff9d423)],
+    ),
+  ),
+  Grads(
+    name: 'purple_love',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffcc2b5e), Color(0xff753a88)],
+    ),
+  ),
+  Grads(
+    name: 'dimigo',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffec008c), Color(0xfffc6767)],
+    ),
+  ),
+  Grads(
+    name: 'cooper',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffb79891), Color(0xff94716b)],
+    ),
+  ),
+  Grads(
+    name: 'kyoo_tah',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff544a7d), Color(0xffffd452)],
+    ),
+  ),
+  Grads(
+    name: 'sand_to_blue',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff3e5151), Color(0xffdecba4)],
+    ),
+  ),
+  Grads(
+    name: 'selenium',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff3c3b3f), Color(0xff605c3c)],
+    ),
+  ),
+  Grads(
+    name: 'sulphur',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffcac531), Color(0xfff3f9a7)],
+    ),
+  ),
+  Grads(
+    name: 'lithuim',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff6d6027), Color(0xffd3cbb8)],
+    ),
+  ),
+  Grads(
+    name: 'learning_and_leading',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff7971e), Color(0xffffd200)],
+    ),
+  ),
+  Grads(
+    name: 'sun_on_the_horizon',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfffceabb), Color(0xfff8b500)],
+    ),
+  ),
+  Grads(
+    name: 'sherbert',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff79d00), Color(0xff64f38c)],
+    ),
+  ),
+  Grads(
+    name: 'minnesota_vikings',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff5614b0), Color(0xffdbd65c)],
+    ),
+  ),
+  Grads(
+    name: 'pale_wood',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffeacda3), Color(0xffd6ae7b)],
+    ),
+  ),
+  Grads(
+    name: 'light_orange',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffb75e), Color(0xffed8f03)],
+    ),
+  ),
+  Grads(
+    name: 'dark_knight',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffba8b02), Color(0xff181818)],
+    ),
+  ),
+  Grads(
+    name: 'ukraine',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff004ff9), Color(0xfffff94c)],
+    ),
+  ),
+  Grads(
+    name: 'koko_caramel',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffd1913c), Color(0xffffd194)],
+    ),
+  ),
+  Grads(
+    name: 'pastel_orange_at_the_sun',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffb347), Color(0xffffcc33)],
+    ),
+  ),
+  Grads(
+    name: 'crazy_orange_1',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffd38312), Color(0xffa83279)],
+    ),
+  ),
+  Grads(
+    name: 'starfall',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff0c27b), Color(0xff4b1248)],
+    ),
+  ),
+  Grads(
+    name: 'earthly',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff649173), Color(0xffdbd5a4)],
+    ),
+  ),
+  Grads(
+    name: 'autumn',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffdad299), Color(0xffb0dab9)],
+    ),
+  ),
+  Grads(
+    name: 'vasily',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffe9d362), Color(0xff333333)],
+    ),
+  ),
+  Grads(
+    name: 'mango_pulp',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff09819), Color(0xffedde5d)],
+    ),
+  ),
+  Grads(
+    name: 'juicy_orange',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff8008), Color(0xffffc837)],
+    ),
+  ),
+  Grads(
+    name: 'monte_carlo',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffcc95c0), Color(0xffdbd4b4), Color(0xff7aa1d2)],
+    ),
+  ),
+  Grads(
+    name: 'lemon_twist',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff3ca55c), Color(0xffb5ac49)],
+    ),
+  ),
+  Grads(
+    name: 'sunny_days',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffede574), Color(0xffe1f5c4)],
+    ),
+  ),
+  Grads(
+    name: 'rea',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffe000), Color(0xff799f0c)],
+    ),
+  ),
+  Grads(
+    name: 'mango',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffe259), Color(0xffffa751)],
+    ),
+  ),
+  Grads(
+    name: 'ver',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffe000), Color(0xff799f0c)],
+    ),
+  ),
+  Grads(
+    name: 'shifty',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff636363), Color(0xffa2ab58)],
+    ),
+  ),
+  Grads(
+    name: 'easymed',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffdce35b), Color(0xff45b649)],
+    ),
+  ),
+  Grads(
+    name: 'snapchat',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfffffc00), Color(0xffffffff)],
+    ),
+  ),
+  Grads(
+    name: 'lush',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff56ab2f), Color(0xffa8e063)],
+    ),
+  ),
+  Grads(
+    name: 'alihossein',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff7ff00), Color(0xffdb36a4)],
+    ),
+  ),
+  Grads(
+    name: 'sage_persuasion',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffccccb2), Color(0xff757519)],
+    ),
+  ),
+  Grads(
+    name: 'green_to_dark',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff6a9113), Color(0xff141517)],
+    ),
+  ),
+  Grads(
+    name: 'martini',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfffdfc47), Color(0xff24fe41)],
+    ),
+  ),
+  Grads(
+    name: 'parklife',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffadd100), Color(0xff7b920a)],
+    ),
+  ),
+  Grads(
+    name: 'sirius_tamed',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffefefbb), Color(0xffd4d3dd)],
+    ),
+  ),
+  Grads(
+    name: 'jonquil',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffffeeee), Color(0xffddefbb)],
+    ),
+  ),
+  Grads(
+    name: 'petrichor',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff666600), Color(0xff999966)],
+    ),
+  ),
+  Grads(
+    name: 'army',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff414d0b), Color(0xff727a17)],
+    ),
+  ),
+  Grads(
+    name: 'frozen',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff403b4a), Color(0xffe7e9bb)],
+    ),
+  ),
+  Grads(
+    name: 'horizon',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff003973), Color(0xffe5e5be)],
+    ),
+  ),
+  Grads(
+    name: 'reaqua',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff799f0c), Color(0xffacbb78)],
+    ),
+  ),
+  Grads(
+    name: 'ver_black',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff7f8f8), Color(0xffacbb78)],
+    ),
+  ),
+  Grads(
+    name: 'magic',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff59c173), Color(0xffa17fe0), Color(0xff5d26c1)],
+    ),
+  ),
+  Grads(
+    name: 'quepal',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff11998e), Color(0xff38ef7d)],
+    ),
+  ),
+  Grads(
+    name: 'rainbow_blue',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff00f260), Color(0xff0575e6)],
+    ),
+  ),
+  Grads(
+    name: 'terminal',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff000000), Color(0xff0f9b0f)],
+    ),
+  ),
+  Grads(
+    name: 'meridian',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff283c86), Color(0xff45a247)],
+    ),
+  ),
+  Grads(
+    name: 'limeade',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffa1ffce), Color(0xfffaffd1)],
+    ),
+  ),
+  Grads(
+    name: 'shahabi',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffa80077), Color(0xff66ff00)],
+    ),
+  ),
+  Grads(
+    name: 'little_leaf',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff76b852), Color(0xff8dc26f)],
+    ),
+  ),
+  Grads(
+    name: 'behongo',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff52c234), Color(0xff061700)],
+    ),
+  ),
+  Grads(
+    name: 'moss',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff134e5e), Color(0xff71b280)],
+    ),
+  ),
+  Grads(
+    name: 'petrol',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffbbd2c5), Color(0xff536976)],
+    ),
+  ),
+  Grads(
+    name: 'royal_blue_plus_petrol',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffbbd2c5), Color(0xff536976), Color(0xff292e49)],
+    ),
+  ),
+  Grads(
+    name: 'witching_hour',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffc31432), Color(0xff240b36)],
+    ),
+  ),
+  Grads(
+    name: 'lawrencium',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff0f0c29), Color(0xff302b63), Color(0xff24243e)],
+    ),
+  ),
+  Grads(
+    name: 'argon',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [
+        Color(0xff03001e),
+        Color(0xff7303c0),
+        Color(0xffec38bc),
+        Color(0xfffdeff9)
+      ],
+    ),
+  ),
+  Grads(
+    name: 'purplepine',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff20002c), Color(0xffcbb4d4)],
+    ),
+  ),
+  Grads(
+    name: 'what_lies_beyond',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xfff0f2f0), Color(0xff000c40)],
+    ),
+  ),
+  Grads(
+    name: 'eighties_purple',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff41295a), Color(0xff2f0743)],
+    ),
+  ),
+  Grads(
+    name: 'royal',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff141e30), Color(0xff243b55)],
+    ),
+  ),
+  Grads(
+    name: 'deep_space',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff000000), Color(0xff434343)],
+    ),
+  ),
+  Grads(
+    name: 'flickr',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff0084), Color(0xff33001b)],
+    ),
+  ),
+  Grads(
+    name: 'twitch',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff6441a5), Color(0xff2a0845)],
+    ),
+  ),
+  Grads(
+    name: 'talking_to_mice_elf',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff948e99), Color(0xff2e1437)],
+    ),
+  ),
+  Grads(
+    name: 'hersheys',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff1e130c), Color(0xff9a8478)],
+    ),
+  ),
+  Grads(
+    name: 'misty_meadow',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff215f00), Color(0xffe4e4d9)],
+    ),
+  ),
+  Grads(
+    name: 'pinot_noir',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff4b6cb7), Color(0xff182848)],
+    ),
+  ),
+  Grads(
+    name: 'midnight_city',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff232526), Color(0xff414345)],
+    ),
+  ),
+  Grads(
+    name: 'steel_gray',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff1f1c2c), Color(0xff928dab)],
+    ),
+  ),
+  Grads(
+    name: 'grade_grey',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffbdc3c7), Color(0xff2c3e50)],
+    ),
+  ),
+  Grads(
+    name: 'dark_ocean',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff373b44), Color(0xff4286f4)],
+    ),
+  ),
+  Grads(
+    name: 'yoda',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffff0099), Color(0xff493240)],
+    ),
+  ),
+  Grads(
+    name: 'zinc',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [
+        Color(0xffada996),
+        Color(0xfff2f2f2),
+        Color(0xffdbdbdb),
+        Color(0xffeaeaea)
+      ],
+    ),
+  ),
+  Grads(
+    name: 'fifty_shades_of_grey',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xffbdc3c7), Color(0xff2c3e50)],
+    ),
+  ),
+  Grads(
+    name: 'curiosity_blue',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff525252), Color(0xff3d72b4)],
+    ),
+  ),
+  Grads(
+    name: 'portrait',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [Color(0xff8e9eab), Color(0xffeef2f3)],
+    ),
+  ),
+  Grads(
+    name: '',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [],
+    ),
+  ),
+  Grads(
+    name: '',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [],
+    ),
+  ),
+  Grads(
+    name: '',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [],
+    ),
+  ),
+  Grads(
+    name: '',
+    color: LinearGradient(
+      begin: Alignment.centerLeft,
+      end: Alignment.centerRight,
+      colors: [],
     ),
   ),
 ];
@@ -1598,696 +2736,276 @@ const List<Color> radar = [];
 //star
 const List<Color> eds_sunset_gradient = [];
 
-const List<Color> nepal = [
-  Color(0xffde6161),
-  Color(0xff2657eb),
-];
+const List<Color> nepal = [];
 
-const List<Color> love_couple = [
-  Color(0xff3a6186),
-  Color(0xff89253e),
-];
+const List<Color> love_couple = [];
 //star
-const List<Color> blood_red = [
-  Color(0xfff85032),
-  Color(0xffe73827),
-];
+const List<Color> blood_red = [];
 //star
-const List<Color> firewatch = [
-  Color(0xffcb2d3e),
-  Color(0xffef473a),
-];
+const List<Color> firewatch = [];
 
-const List<Color> minimal_red = [
-  Color(0xfff00000),
-  Color(0xffdc281e),
-];
+const List<Color> minimal_red = [];
 
-const List<Color> dusk = [
-  Color(0xff2c3e50),
-  Color(0xfffd746c),
-];
+const List<Color> dusk = [];
 
-const List<Color> grapefruit_sunset = [
-  Color(0xffe96443),
-  Color(0xff904e95),
-];
+const List<Color> grapefruit_sunset = [];
 
-const List<Color> sweet_morning = [
-  Color(0xffff5f6d),
-  Color(0xffffc371),
-];
+const List<Color> sweet_morning = [];
 //star
-const List<Color> sylvia = [
-  Color(0xffff4b1f),
-  Color(0xffff9068),
-];
+const List<Color> sylvia = [];
 
-const List<Color> tranquil = [
-  Color(0xffeecda3),
-  Color(0xffef629f),
-];
+const List<Color> tranquil = [];
 
-const List<Color> purple_white = [
-  Color(0xffba5370),
-  Color(0xfff4e2d8),
-];
+const List<Color> purple_white = [];
 
-const List<Color> forest = [
-  Color(0xff5a3f37),
-  Color(0xff2c7744),
-];
+const List<Color> forest = [];
 
-const List<Color> christmas = [
-  Color(0xff2f7336),
-  Color(0xffaa3a38),
-];
+const List<Color> christmas = [];
 
-const List<Color> haikus = [
-  Color(0xfffd746c),
-  Color(0xffff9068),
-];
+const List<Color> haikus = [];
 
-const List<Color> blush = [
-  Color(0xffb24592),
-  Color(0xfff15f79),
-];
+const List<Color> blush = [];
 
-const List<Color> back_to_the_future = [
-  Color(0xffc02425),
-  Color(0xfff0cb35),
-];
+const List<Color> back_to_the_future = [];
 
-const List<Color> poncho = [
-  Color(0xff403a3e),
-  Color(0xffbe5869),
-];
+const List<Color> poncho = [];
 
-const List<Color> netflix = [
-  Color(0xff8e0e00),
-  Color(0xff1f1c18),
-];
+const List<Color> netflix = [];
 // star
-const List<Color> master_card = [
-  Color(0xfff46b45),
-  Color(0xffeea849),
-];
+const List<Color> master_card = [];
 //star
-const List<Color> passion = [
-  Color(0xffe53935),
-  Color(0xffe35d5b),
-];
+const List<Color> passion = [];
 
-const List<Color> piglet = [
-  Color(0xffee9ca7),
-  Color(0xffffdde1),
-];
+const List<Color> piglet = [];
 
-const List<Color> virgin_america = [
-  Color(0xff7b4397),
-  Color(0xffdc2430),
-];
+const List<Color> virgin_america = [];
 
-const List<Color> instagram = [
-  Color(0xff833ab4),
-  Color(0xfffd1d1d),
-  Color(0xfffcb045),
-];
+const List<Color> instagram = [];
 
-const List<Color> predawn = [
-  Color(0xffffa17f),
-  Color(0xff00223e),
-];
+const List<Color> predawn = [];
 //star
-const List<Color> soundcloud = [
-  Color(0xfffe8c00),
-  Color(0xfff83600),
-];
+const List<Color> soundcloud = [];
 
-const List<Color> chear_up_emo_kid = [
-  Color(0xff556270),
-  Color(0xffff6b6b),
-];
+const List<Color> chear_up_emo_kid = [];
 
-const List<Color> man_of_steel = [
-  Color(0xff780206),
-  Color(0xff061161),
-];
+const List<Color> man_of_steel = [];
 //star
-const List<Color> red_mist = [
-  Color(0xff000000),
-  Color(0xffe74c3c),
-];
+const List<Color> red_mist = [];
 //star
-const List<Color> dance_to_forget = [
-  Color(0xffff4e50),
-  Color(0xfff9d423),
-];
+const List<Color> dance_to_forget = [];
 
-const List<Color> virgin = [
-  Color(0xffc9ffbf),
-  Color(0xffffafbd),
-];
+const List<Color> virgin = [];
 //star
-const List<Color> the_strain = [
-  Color(0xff870000),
-  Color(0xff190a05),
-];
+const List<Color> the_strain = [];
 
-const List<Color> candy = [
-  Color(0xffd3959b),
-  Color(0xffbfe6ba),
-];
+const List<Color> candy = [];
 //star
-const List<Color> nelson = [
-  Color(0xfff2709c),
-  Color(0xffff9472),
-];
+const List<Color> nelson = [];
 
-const List<Color> almost = [
-  Color(0xffddd6f3),
-  Color(0xfffaaca8),
-];
+const List<Color> almost = [];
 //star
-const List<Color> kyoto = [
-  Color(0xffc21500),
-  Color(0xffffc500),
-];
+const List<Color> kyoto = [];
 
-const List<Color> a_lost_memory = [
-  Color(0xffde6262),
-  Color(0xffffb88c),
-];
+const List<Color> a_lost_memory = [];
 //star
-const List<Color> blurry_beach = [
-  Color(0xffd53369),
-  Color(0xffcbad6d),
-];
+const List<Color> blurry_beach = [];
 //star
-const List<Color> namn = [
-  Color(0xffa73737),
-  Color(0xff7a2828),
-];
+const List<Color> namn = [];
 
-const List<Color> day_tripper = [
-  Color(0xfff857a6),
-  Color(0xffff5858),
-];
+const List<Color> day_tripper = [];
 //star
-const List<Color> shrimpy = [
-  Color(0xffe43a15),
-  Color(0xffe65245),
-];
+const List<Color> shrimpy = [];
 
-const List<Color> influenza = [
-  Color(0xffc04848),
-  Color(0xff480048),
-];
+const List<Color> influenza = [];
 //star
-const List<Color> bourbon = [
-  Color(0xffec6f66),
-  Color(0xfff3a183),
-];
+const List<Color> bourbon = [];
 
-const List<Color> moonrise = [
-  Color(0xffdae2f8),
-  Color(0xffd6a4a4),
-];
+const List<Color> moonrise = [];
 
-const List<Color> peach = [
-  Color(0xffed4264),
-  Color(0xffffedbc),
-];
+const List<Color> peach = [];
 
-const List<Color> dracula = [
-  Color(0xffdc2424),
-  Color(0xff4a569d),
-];
+const List<Color> dracula = [];
 //star
-const List<Color> cherry = [
-  Color(0xffeb3349),
-  Color(0xfff45c43),
-];
+const List<Color> cherry = [];
 
-const List<Color> pinky = [
-  Color(0xffdd5e89),
-  Color(0xfff7bb97),
-];
+const List<Color> pinky = [];
 //star
-const List<Color> sunrise = [
-  Color(0xffff512f),
-  Color(0xfff09819),
-];
+const List<Color> sunrise = [];
 //star
-const List<Color> bloody_mary = [
-  Color(0xffff512f),
-  Color(0xffdd2476),
-];
+const List<Color> bloody_mary = [];
 //star
-const List<Color> playing_with_reds = [
-  Color(0xffd31027),
-  Color(0xffea384d),
-];
+const List<Color> playing_with_reds = [];
 
-const List<Color> cool_brown = [
-  Color(0xff603813),
-  Color(0xffb29f94),
-];
+const List<Color> cool_brown = [];
 
-const List<Color> youtube = [
-  Color(0xffe52d27),
-  Color(0xffb31217),
-];
+const List<Color> youtube = [];
 
-const List<Color> noon_to_dusk = [
-  Color(0xffff6e7f),
-  Color(0xffbfe9ff),
-];
+const List<Color> noon_to_dusk = [];
 //star
-const List<Color> blooker20 = [
-  Color(0xffe65c00),
-  Color(0xfff9d423),
-];
+const List<Color> blooker20 = [];
 
-const List<Color> purple_love = [
-  Color(0xffcc2b5e),
-  Color(0xff753a88),
-];
+const List<Color> purple_love = [];
 //star
-const List<Color> dimigo = [
-  Color(0xffec008c),
-  Color(0xfffc6767),
-];
+const List<Color> dimigo = [];
 
-const List<Color> cooper = [
-  Color(0xffb79891),
-  Color(0xff94716b),
-];
+const List<Color> cooper = [];
 
-const List<Color> kyoo_tah = [
-  Color(0xff544a7d),
-  Color(0xffffd452),
-];
+const List<Color> kyoo_tah = [];
 
-const List<Color> sand_to_blue = [
-  Color(0xff3e5151),
-  Color(0xffdecba4),
-];
+const List<Color> sand_to_blue = [];
 //star
-const List<Color> selenium = [
-  Color(0xff3c3b3f),
-  Color(0xff605c3c),
-];
+const List<Color> selenium = [];
 
-const List<Color> sulphur = [
-  Color(0xffcac531),
-  Color(0xfff3f9a7),
-];
+const List<Color> sulphur = [];
 //star
-const List<Color> lithuim = [
-  Color(0xff6d6027),
-  Color(0xffd3cbb8),
-];
+const List<Color> lithuim = [];
 //star
-const List<Color> learning_and_leading = [
-  Color(0xfff7971e),
-  Color(0xffffd200),
-];
+const List<Color> learning_and_leading = [];
 
-const List<Color> sun_on_the_horizon = [
-  Color(0xfffceabb),
-  Color(0xfff8b500),
-];
+const List<Color> sun_on_the_horizon = [];
 
-const List<Color> sherbert = [
-  Color(0xfff79d00),
-  Color(0xff64f38c),
-];
+const List<Color> sherbert = [];
 
-const List<Color> minnesota_vikings = [
-  Color(0xff5614b0),
-  Color(0xffdbd65c),
-];
+const List<Color> minnesota_vikings = [];
 
-const List<Color> pale_wood = [
-  Color(0xffeacda3),
-  Color(0xffd6ae7b),
-];
+const List<Color> pale_wood = [];
 
-const List<Color> light_orange = [
-  Color(0xffffb75e),
-  Color(0xffed8f03),
-];
+const List<Color> light_orange = [];
 
-const List<Color> dark_knight = [
-  Color(0xffba8b02),
-  Color(0xff181818),
-];
+const List<Color> dark_knight = [];
 
-const List<Color> ukraine = [
-  Color(0xff004ff9),
-  Color(0xfffff94c),
-];
+const List<Color> ukraine = [];
 
-const List<Color> koko_caramel = [
-  Color(0xffd1913c),
-  Color(0xffffd194),
-];
+const List<Color> koko_caramel = [];
 
-const List<Color> pastel_orange_at_the_sun = [
-  Color(0xffffb347),
-  Color(0xffffcc33),
-];
+const List<Color> pastel_orange_at_the_sun = [];
 //star
-const List<Color> crazy_orange_1 = [
-  Color(0xffd38312),
-  Color(0xffa83279),
-];
+const List<Color> crazy_orange_1 = [];
 
-const List<Color> starfall = [
-  Color(0xfff0c27b),
-  Color(0xff4b1248),
-];
+const List<Color> starfall = [];
 
-const List<Color> earthly = [
-  Color(0xff649173),
-  Color(0xffdbd5a4),
-];
+const List<Color> earthly = [];
 
-const List<Color> autumn = [
-  Color(0xffdad299),
-  Color(0xffb0dab9),
-];
+const List<Color> autumn = [];
 
-const List<Color> vasily = [
-  Color(0xffe9d362),
-  Color(0xff333333),
-];
+const List<Color> vasily = [];
 
-const List<Color> mango_pulp = [
-  Color(0xfff09819),
-  Color(0xffedde5d),
-];
+const List<Color> mango_pulp = [];
 
-const List<Color> juicy_orange = [
-  Color(0xffff8008),
-  Color(0xffffc837),
-];
+const List<Color> juicy_orange = [];
 
-const List<Color> monte_carlo = [
-  Color(0xffcc95c0),
-  Color(0xffdbd4b4),
-  Color(0xff7aa1d2),
-];
+const List<Color> monte_carlo = [];
 
-const List<Color> lemon_twist = [
-  Color(0xff3ca55c),
-  Color(0xffb5ac49),
-];
+const List<Color> lemon_twist = [];
 
-const List<Color> sunny_days = [
-  Color(0xffede574),
-  Color(0xffe1f5c4),
-];
+const List<Color> sunny_days = [];
 
-const List<Color> rea = [
-  Color(0xffffe000),
-  Color(0xff799f0c),
-];
+const List<Color> rea = [];
 
-const List<Color> mango = [
-  Color(0xffffe259),
-  Color(0xffffa751),
-];
+const List<Color> mango = [];
 
-const List<Color> ver = [
-  Color(0xffffe000),
-  Color(0xff799f0c),
-];
+const List<Color> ver = [];
 
-const List<Color> shifty = [
-  Color(0xff636363),
-  Color(0xffa2ab58),
-];
+const List<Color> shifty = [];
 
-const List<Color> easymed = [
-  Color(0xffdce35b),
-  Color(0xff45b649),
-];
+const List<Color> easymed = [];
 
-const List<Color> snapchat = [
-  Color(0xfffffc00),
-  Color(0xffffffff),
-];
+const List<Color> snapchat = [];
 
-const List<Color> lush = [
-  Color(0xff56ab2f),
-  Color(0xffa8e063),
-];
+const List<Color> lush = [];
 //star
-const List<Color> alihossein = [
-  Color(0xfff7ff00),
-  Color(0xffdb36a4),
-];
+const List<Color> alihossein = [];
 
-const List<Color> sage_persuasion = [
-  Color(0xffccccb2),
-  Color(0xff757519),
-];
+const List<Color> sage_persuasion = [];
 
-const List<Color> green_to_dark = [
-  Color(0xff6a9113),
-  Color(0xff141517),
-];
+const List<Color> green_to_dark = [];
 
-const List<Color> martini = [
-  Color(0xfffdfc47),
-  Color(0xff24fe41),
-];
+const List<Color> martini = [];
 
-const List<Color> parklife = [
-  Color(0xffadd100),
-  Color(0xff7b920a),
-];
+const List<Color> parklife = [];
 
-const List<Color> sirius_tamed = [
-  Color(0xffefefbb),
-  Color(0xffd4d3dd),
-];
+const List<Color> sirius_tamed = [];
 
-const List<Color> jonquil = [
-  Color(0xffffeeee),
-  Color(0xffddefbb),
-];
+const List<Color> jonquil = [];
 
-const List<Color> petrichor = [
-  Color(0xff666600),
-  Color(0xff999966),
-];
+const List<Color> petrichor = [];
 
-const List<Color> army = [
-  Color(0xff414d0b),
-  Color(0xff727a17),
-];
+const List<Color> army = [];
 
-const List<Color> frozen = [
-  Color(0xff403b4a),
-  Color(0xffe7e9bb),
-];
+const List<Color> frozen = [];
 
-const List<Color> horizon = [
-  Color(0xff003973),
-  Color(0xffe5e5be),
-];
+const List<Color> horizon = [];
 
-const List<Color> reaqua = [
-  Color(0xff799f0c),
-  Color(0xffacbb78),
-];
+const List<Color> reaqua = [];
 
-const List<Color> ver_black = [
-  Color(0xfff7f8f8),
-  Color(0xffacbb78),
-];
+const List<Color> ver_black = [];
 
-const List<Color> magic = [
-  Color(0xff59c173),
-  Color(0xffa17fe0),
-  Color(0xff5d26c1),
-];
+const List<Color> magic = [];
 
-const List<Color> quepal = [
-  Color(0xff11998e),
-  Color(0xff38ef7d),
-];
+const List<Color> quepal = [];
 //star
-const List<Color> rainbow_blue = [
-  Color(0xff00f260),
-  Color(0xff0575e6),
-];
+const List<Color> rainbow_blue = [];
 
-const List<Color> terminal = [
-  Color(0xff000000),
-  Color(0xff0f9b0f),
-];
+const List<Color> terminal = [];
 
-const List<Color> meridian = [
-  Color(0xff283c86),
-  Color(0xff45a247),
-];
+const List<Color> meridian = [];
 
-const List<Color> limeade = [
-  Color(0xffa1ffce),
-  Color(0xfffaffd1),
-];
+const List<Color> limeade = [];
 
-const List<Color> shahabi = [
-  Color(0xffa80077),
-  Color(0xff66ff00),
-];
+const List<Color> shahabi = [];
 
-const List<Color> little_leaf = [
-  Color(0xff76b852),
-  Color(0xff8dc26f),
-];
+const List<Color> little_leaf = [];
 
-const List<Color> behongo = [
-  Color(0xff52c234),
-  Color(0xff061700),
-];
+const List<Color> behongo = [];
 
-const List<Color> moss = [
-  Color(0xff134e5e),
-  Color(0xff71b280),
-];
+const List<Color> moss = [];
 
-const List<Color> petrol = [
-  Color(0xffbbd2c5),
-  Color(0xff536976),
-];
+const List<Color> petrol = [];
 
-const List<Color> royal_blue_plus_petrol = [
-  Color(0xffbbd2c5),
-  Color(0xff536976),
-  Color(0xff292e49),
-];
+const List<Color> royal_blue_plus_petrol = [];
 // star
-const List<Color> witching_hour = [
-  Color(0xffc31432),
-  Color(0xff240b36),
-];
+const List<Color> witching_hour = [];
 
-const List<Color> lawrencium = [
-  Color(0xff0f0c29),
-  Color(0xff302b63),
-  Color(0xff24243e),
-];
+const List<Color> lawrencium = [];
 
-const List<Color> argon = [
-  Color(0xff03001e),
-  Color(0xff7303c0),
-  Color(0xffec38bc),
-  Color(0xfffdeff9),
-];
+const List<Color> argon = [];
 
-const List<Color> purplepine = [
-  Color(0xff20002c),
-  Color(0xffcbb4d4),
-];
+const List<Color> purplepine = [];
 
-const List<Color> what_lies_beyond = [
-  Color(0xfff0f2f0),
-  Color(0xff000c40),
-];
+const List<Color> what_lies_beyond = [];
 
-const List<Color> eighties_purple = [
-  Color(0xff41295a),
-  Color(0xff2f0743),
-];
+const List<Color> eighties_purple = [];
 
-const List<Color> royal = [
-  Color(0xff141e30),
-  Color(0xff243b55),
-];
+const List<Color> royal = [];
 
-const List<Color> deep_space = [
-  Color(0xff000000),
-  Color(0xff434343),
-];
+const List<Color> deep_space = [];
 //star
-const List<Color> flickr = [
-  Color(0xffff0084),
-  Color(0xff33001b),
-];
+const List<Color> flickr = [];
 
-const List<Color> twitch = [
-  Color(0xff6441a5),
-  Color(0xff2a0845),
-];
+const List<Color> twitch = [];
 
-const List<Color> talking_to_mice_elf = [
-  Color(0xff948e99),
-  Color(0xff2e1437),
-];
+const List<Color> talking_to_mice_elf = [];
 
-const List<Color> hersheys = [
-  Color(0xff1e130c),
-  Color(0xff9a8478),
-];
+const List<Color> hersheys = [];
 
-const List<Color> misty_meadow = [
-  Color(0xff215f00),
-  Color(0xffe4e4d9),
-];
+const List<Color> misty_meadow = [];
 
-const List<Color> pinot_noir = [
-  Color(0xff4b6cb7),
-  Color(0xff182848),
-];
+const List<Color> pinot_noir = [];
 
-const List<Color> midnight_city = [
-  Color(0xff232526),
-  Color(0xff414345),
-];
+const List<Color> midnight_city = [];
 
-const List<Color> steel_gray = [
-  Color(0xff1f1c2c),
-  Color(0xff928dab),
-];
+const List<Color> steel_gray = [];
 
-const List<Color> grade_grey = [
-  Color(0xffbdc3c7),
-  Color(0xff2c3e50),
-];
+const List<Color> grade_grey = [];
 
-const List<Color> dark_ocean = [
-  Color(0xff373b44),
-  Color(0xff4286f4),
-];
+const List<Color> dark_ocean = [];
 
-const List<Color> yoda = [
-  Color(0xffff0099),
-  Color(0xff493240),
-];
+const List<Color> yoda = [];
 
-const List<Color> zinc = [
-  Color(0xffada996),
-  Color(0xfff2f2f2),
-  Color(0xffdbdbdb),
-  Color(0xffeaeaea),
-];
+const List<Color> zinc = [];
 
-const List<Color> fifty_shades_of_grey = [
-  Color(0xffbdc3c7),
-  Color(0xff2c3e50),
-];
+const List<Color> fifty_shades_of_grey = [];
 
-const List<Color> curiosity_blue = [
-  Color(0xff525252),
-  Color(0xff3d72b4),
-];
+const List<Color> curiosity_blue = [];
 
-const List<Color> portrait = [
-  Color(0xff8e9eab),
-  Color(0xffeef2f3),
-];
+const List<Color> portrait = [];
