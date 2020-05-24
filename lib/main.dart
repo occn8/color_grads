@@ -37,11 +37,11 @@ class _MyHomePageState extends State<MyHomePage> {
         itemBuilder: (BuildContext context, int index) {
           Grads grads = grad[index];
           return Container(
-            height: 100,
+            height: 120,
             padding: new EdgeInsets.all(5),
             margin: new EdgeInsets.all(5),
             decoration: BoxDecoration(
-              gradient: grads.color,
+              gradient: grads.colors,
               borderRadius: BorderRadius.circular(10),
             ),
             child: Text('${grads.name}'),
